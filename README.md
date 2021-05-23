@@ -13,7 +13,7 @@
   <img height="165"
       src="https://github-readme-stats.vercel.app/api?username=ArthurVBS&show_icons=true&count_private=true&theme=tokyonight"/>&nbsp;
   <img height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVBS&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVBS&layout=compact&theme=tokyonight"
 <div>
 <br><br>
   
