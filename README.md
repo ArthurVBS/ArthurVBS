@@ -8,11 +8,10 @@
   I'm a programming student from Recife, Brazil
 </p>
 <br>
-
 <div align="center">
-  <img height="165"
+  <img height="165px" width="400px"
       src="https://github-readme-stats.vercel.app/api?username=ArthurVBS&show_icons=true&count_private=true&theme=tokyonight"/>&nbsp;
-  <img height="165"
+  <img height="165px" width="400px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVBS&layout=compact&theme=tokyonight"
 <div>
 <br><br>
