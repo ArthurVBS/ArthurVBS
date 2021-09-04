@@ -31,7 +31,7 @@
   <a href="https://github.com/ArthurVBS">
     <img align="left" img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/arthurvini2703br">
+  <a href="https://www.instagram.com/arthur_v.b.s">
     <img align="left" img src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </div>
