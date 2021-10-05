@@ -14,9 +14,9 @@
 
 <div id="main">
     <div align="center">
-        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ArthurVBS&show_icons=true&count_private=true&theme=tokyonight">
+        <img height="160px" src="https://github-readme-stats.vercel.app/api?username=ArthurVBS&show_icons=true&count_private=true&theme=tokyonight">
         &nbsp;
-        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVBS&layout=compact&theme=tokyonight">
+        <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVBS&layout=compact&theme=tokyonight">
     <div>
     <br>
     <div style="display: inline_block">
