@@ -25,7 +25,7 @@
         <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+        <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     </div>
 </div>
 
@@ -34,10 +34,13 @@
 <div id="section">
     <a href="https://github.com/ArthurVBS">
         <img align="left" img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
-    </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/arthur_v.b.s">
+    </a>&nbsp;
+    <a href="https://www.instagram.com/arthurwithanh/">
         <img align="left" img src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white" />        
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/arthur-v-b-s-b40abb215/">
+        <img align="left" img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white" />        
+    </a>&nbsp;
 </div>
 
 <hr>
