@@ -1,5 +1,3 @@
-<hr>
-
 <div id="header">
   <h1 align='center'>
       So People,
@@ -7,7 +5,7 @@
       I'm Arthur V.B.S.
   </h1>
   <p align="center">
-      I'm a young programming student from Recife, Brazil
+      I'm a young programming student from Recife, Brazil.
   </p>
 </div>
 
