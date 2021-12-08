@@ -1,7 +1,8 @@
 <hr>
+
 <div id="header">
   <h1 align='center'>
-      Hi, there
+      So People,
       <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35">
       I'm Arthur V.B.S.
   </h1>
@@ -10,42 +11,45 @@
   </p>
 </div>
 
-<br>
-
 <div id="main">
     <div align="center">
         <img height="160px" src="https://github-readme-stats.vercel.app/api?username=ArthurVBS&show_icons=true&count_private=true&theme=tokyonight">
         &nbsp;
         <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVBS&layout=compact&theme=tokyonight">
-    <div>
-    <br>
-    <div style="display: inline_block">
-        <img align="left" src="https://64.media.tumblr.com/31fca450a7cf89369e51328b80f7c8d8/tumblr_mo7etqt46g1sutxdmo1_250.gif">
-        <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-        <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     </div>
-</div>
-
-<br><h1></h1>
-
-<div id="section">
-    <a href="https://github.com/ArthurVBS">
-        <img align="left" img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
-    </a>&nbsp;
-    <a href="https://www.instagram.com/arthurwithanh/">
-        <img align="left" img src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white" />        
-    </a>&nbsp;
-    <a href="https://www.linkedin.com/in/arthur-v-b-s-b40abb215/">
-        <img align="left" img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white" />        
-    </a>&nbsp;
+    <br>
+    <div align="center" style="display: inline_block" height="90">
+        <img align="center" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        &nbsp;&nbsp;
+        <img align="center" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        &nbsp;&nbsp;
+        <img align="center" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        &nbsp;&nbsp;
+        <img align="center" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        &nbsp;&nbsp;
+        <img align="center" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+        &nbsp;&nbsp;
+        <img align="center" height="55px" src="https://64.media.tumblr.com/31fca450a7cf89369e51328b80f7c8d8/tumblr_mo7etqt46g1sutxdmo1_250.gif">
+    </div>
 </div>
 
 <hr>
 
 ![Snake animation](https://github.com/ArthurVBS/ArthurVBS/blob/output/github-contribution-grid-snake.svg)
+
+<hr>
+
+<div id="section" align="center">
+    <a href="https://arthurvbs.github.io/">
+        <img align="center" height="30px" img src="https://img.shields.io/badge/GitHub%20Pages-303388?style=for-the-badge&logo=github&logoColor=white">        
+    </a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/arthurwithanh/">
+        <img align="center" height="30px" img src="https://img.shields.io/badge/Instagram-303388?style=for-the-badge&logo=instagram&logoColor=white">        
+    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/arthur-v-b-s-b40abb215/">
+        <img align="center" height="30px" img src="https://img.shields.io/badge/LinkedIn-303388?style=for-the-badge&logo=linkedin&logoColor=white">        
+    </a>&nbsp;&nbsp;
+</div>
 
 <!--
 <p align="center"> 
@@ -67,4 +71,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
