@@ -25,8 +25,6 @@
         &nbsp;&nbsp;
         <img align="center" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         &nbsp;&nbsp;
-        <img align="center" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-        &nbsp;&nbsp;
         <img align="center" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
         &nbsp;&nbsp;
         <img align="center" height="55px" src="https://64.media.tumblr.com/31fca450a7cf89369e51328b80f7c8d8/tumblr_mo7etqt46g1sutxdmo1_250.gif">
@@ -42,13 +40,13 @@
 <hr>
 
 <div id="section" align="center">
-    <a href="https://arthurvbs.github.io/">
+    <a href="https://arthurvbs.github.io/MyWebPage">
         <img align="center" height="30px" img src="https://img.shields.io/badge/Homepage-303388?style=for-the-badge&logo=github&logoColor=white">        
     </a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/arthurwithanh/">
         <img align="center" height="30px" img src="https://img.shields.io/badge/Instagram-303388?style=for-the-badge&logo=instagram&logoColor=white">        
     </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/arthur-v-b-s-b40abb215/">
+    <a href="https://www.linkedin.com/in/arthurvbs/">
         <img align="center" height="30px" img src="https://img.shields.io/badge/LinkedIn-303388?style=for-the-badge&logo=linkedin&logoColor=white">        
     </a>&nbsp;&nbsp;
 </div>
