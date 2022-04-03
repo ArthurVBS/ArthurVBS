@@ -23,15 +23,9 @@
 
 <div align='center'>
   <img height='200px' src="https://github-readme-streak-stats.herokuapp.com?user=ArthurVBS&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D">
-  <br><br>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ArthurVBS&show_icons=true&hide_border=true&count_private=true&theme=blueberry">
-  &nbsp;&nbsp;
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVBS&layout=compact&hide_border=true&theme=blueberry">
 </div>
 
-
 ![Snake animation](https://github.com/ArthurVBS/ArthurVBS/blob/output/github-contribution-grid-snake.svg)
-
 
 <div align="center">
   <a href="https://arthurvbs.github.io/MyWebPage">
@@ -44,4 +38,3 @@
     <img height='30px' src="https://img.shields.io/badge/LinkedIn-242938?logo=linkedin&labelColor=259275&logoColor=FFF">         
   </a>&nbsp;&nbsp;
 </div>
-
