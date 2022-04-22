@@ -1,7 +1,6 @@
 <div align='center'>
-  <h1>
-    &lt;💻&gt; Welcome to my profile &lt;/💻&gt;
-  </h1>
+  <h1>Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35"> & Welcome to my profile</h1>
+  
   <div>
     <img height='25px' src="https://img.shields.io/badge/HTML-242938?logo=html5&labelColor=81A9FE&logoColor=FFF">
     &nbsp;&nbsp;
@@ -19,22 +18,15 @@
   </div>
 </div>
 
-<br>
-
-<div align='center'>
-  <img height='200px' src="https://github-readme-streak-stats.herokuapp.com?user=ArthurVBS&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D">
-</div>
-
 ![Snake animation](https://github.com/ArthurVBS/ArthurVBS/blob/output/github-contribution-grid-snake.svg)
 
+<table align='center'>
+  <tr>
+    <td width='50%' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api?username=ArthurVBS&hide_border=true&show_icons=true&count_private=true&theme=blueberry"></td>
+    <td width='50%' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVBS&hide_border=true&layout=compact&theme=blueberry"></td>
+  </tr>
+</table>
+
 <div align="center">
-  <a href="https://arthurvbs.github.io/MyWebPage">
-    <img height='30px' src="https://img.shields.io/badge/Homepage-242938?logo=github&labelColor=259275&logoColor=FFF">       
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/arthurwithanh/">
-    <img height='30px' src="https://img.shields.io/badge/Instagram-242938?logo=instagram&labelColor=259275&logoColor=FFF">      
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/arthurvbs/">
-    <img height='30px' src="https://img.shields.io/badge/LinkedIn-242938?logo=linkedin&labelColor=259275&logoColor=FFF">         
-  </a>&nbsp;&nbsp;
+  <h3>Show some ❤️ by starring some of the my repositories!</h3>
 </div>
