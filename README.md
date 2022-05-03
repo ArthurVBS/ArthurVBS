@@ -6,6 +6,8 @@
     <img height='25px' src="https://img.shields.io/badge/HTML-242938?logo=html5&labelColor=81A9FE&logoColor=FFF">
     &nbsp;
     <img height='25px' src="https://img.shields.io/badge/CSS-242938?logo=css3&labelColor=81A9FE&logoColor=FFF">
+      &nbsp;
+    <img height='25px' src="https://img.shields.io/badge/SASS-242938?logo=sass&labelColor=81A9FE&logoColor=FFF">
     &nbsp;
     <img height='25px' src="https://img.shields.io/badge/JavaScript-242938?logo=javascript&labelColor=81A9FE&logoColor=FFF">
     &nbsp;
@@ -42,8 +44,8 @@
   <br>
   <table>
     <tr>
-      <td width='50%' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api?username=ArthurVBS&hide_border=true&show_icons=true&count_private=true&theme=blueberry"></td>
-      <td width='50%' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVBS&hide_border=true&layout=compact&theme=blueberry"></td>
+      <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api?username=ArthurVBS&hide_border=true&show_icons=true&count_private=true&theme=blueberry"></td>
+      <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVBS&hide_border=true&layout=compact&theme=blueberry"></td>
     </tr>
   </table>
 </details>
