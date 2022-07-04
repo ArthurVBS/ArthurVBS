@@ -11,11 +11,19 @@
     &nbsp;
     <img height='25px' src="https://img.shields.io/badge/JavaScript-242938?logo=javascript&labelColor=81A9FE&logoColor=FFF">
     &nbsp;
+    <img height='25px' src="https://img.shields.io/badge/TypeScript-242938?logo=typescript&labelColor=81A9FE&logoColor=FFF">
+    &nbsp;
     <img height='25px' src="https://img.shields.io/badge/React-242938?logo=react&labelColor=81A9FE&logoColor=FFF">
     &nbsp;
+  </div>
+  <div>
     <img height='25px' src="https://img.shields.io/badge/AWS-242938?logo=amazon&labelColor=81A9FE&logoColor=FFF">
     &nbsp;
     <img height='25px' src="https://img.shields.io/badge/Python-242938?logo=python&labelColor=81A9FE&logoColor=FFF">
+    &nbsp;
+    <img height='25px' src="https://img.shields.io/badge/Java-242938?logo=java&labelColor=81A9FE&logoColor=FFF">
+    &nbsp;
+    <img height='25px' src="https://img.shields.io/badge/PostgreSQL-242938?logo=postgresql&labelColor=81A9FE&logoColor=FFF">
     &nbsp;
     <img height='25px' src="https://img.shields.io/badge/MariaDB-242938?logo=mariadb&labelColor=81A9FE&logoColor=FFF">
   </div>
@@ -44,8 +52,8 @@
   <br>
   <table>
     <tr>
-      <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api?username=ArthurVBS&hide_border=true&show_icons=true&count_private=true&theme=blueberry"></td>
-      <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVBS&hide_border=true&layout=compact&theme=blueberry"></td>
+      <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api?username=ArthurVBS&hide_border=true&show_icons=true&count_private=true&theme=tokyonight"></td>
+      <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVBS&hide_border=true&layout=compact&theme=tokyonight"></td>
     </tr>
   </table>
 </details>
