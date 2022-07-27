@@ -3,29 +3,21 @@
   
   <!-- Languages & Tools-->
   <div>
-    <img height='25px' src="https://img.shields.io/badge/HTML-242938?logo=html5&labelColor=81A9FE&logoColor=FFF">
-    &nbsp;
-    <img height='25px' src="https://img.shields.io/badge/CSS-242938?logo=css3&labelColor=81A9FE&logoColor=FFF">
-      &nbsp;
-    <img height='25px' src="https://img.shields.io/badge/SASS-242938?logo=sass&labelColor=81A9FE&logoColor=FFF">
-    &nbsp;
     <img height='25px' src="https://img.shields.io/badge/JavaScript-242938?logo=javascript&labelColor=81A9FE&logoColor=FFF">
     &nbsp;
     <img height='25px' src="https://img.shields.io/badge/TypeScript-242938?logo=typescript&labelColor=81A9FE&logoColor=FFF">
     &nbsp;
     <img height='25px' src="https://img.shields.io/badge/React-242938?logo=react&labelColor=81A9FE&logoColor=FFF">
     &nbsp;
-  </div>
-  <div>
     <img height='25px' src="https://img.shields.io/badge/AWS-242938?logo=amazon&labelColor=81A9FE&logoColor=FFF">
     &nbsp;
     <img height='25px' src="https://img.shields.io/badge/Python-242938?logo=python&labelColor=81A9FE&logoColor=FFF">
     &nbsp;
-    <img height='25px' src="https://img.shields.io/badge/Java-242938?logo=java&labelColor=81A9FE&logoColor=FFF">
+    <img height='25px' src="https://img.shields.io/badge/Java-242938?logo=openjdk&labelColor=81A9FE&logoColor=FFF">
+    &nbsp;
+    <img height='25px' src="https://img.shields.io/badge/Spring-242938?logo=spring&labelColor=81A9FE&logoColor=FFF">
     &nbsp;
     <img height='25px' src="https://img.shields.io/badge/PostgreSQL-242938?logo=postgresql&labelColor=81A9FE&logoColor=FFF">
-    &nbsp;
-    <img height='25px' src="https://img.shields.io/badge/MariaDB-242938?logo=mariadb&labelColor=81A9FE&logoColor=FFF">
   </div>
 </div>
 <br>
