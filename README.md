@@ -1,64 +1,78 @@
-<div align='center'>
-  <h1>Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35"> & Welcome to my profile</h1>
-  
-  <!-- Languages & Tools-->
-  <div>
-    <img height='25px' src="https://img.shields.io/badge/JavaScript-242938?logo=javascript&labelColor=81A9FE&logoColor=FFF">
-    &nbsp;
-    <img height='25px' src="https://img.shields.io/badge/TypeScript-242938?logo=typescript&labelColor=81A9FE&logoColor=FFF">
-    &nbsp;
-    <img height='25px' src="https://img.shields.io/badge/React-242938?logo=react&labelColor=81A9FE&logoColor=FFF">
-    &nbsp;
-    <img height='25px' src="https://img.shields.io/badge/AWS-242938?logo=amazon&labelColor=81A9FE&logoColor=FFF">
-    &nbsp;
-    <img height='25px' src="https://img.shields.io/badge/Python-242938?logo=python&labelColor=81A9FE&logoColor=FFF">
-    &nbsp;
-    <img height='25px' src="https://img.shields.io/badge/Java-242938?logo=openjdk&labelColor=81A9FE&logoColor=FFF">
-    &nbsp;
-    <img height='25px' src="https://img.shields.io/badge/Spring-242938?logo=spring&labelColor=81A9FE&logoColor=FFF">
-    &nbsp;
-    <img height='25px' src="https://img.shields.io/badge/PostgreSQL-242938?logo=postgresql&labelColor=81A9FE&logoColor=FFF">
-  </div>
+## Well, hello there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25">
+<!-- Languages & Tools-->
+<div>
+  <img height='25px' src="https://img.shields.io/badge/React-242938?logo=react&labelColor=81A9FE&logoColor=FFF">&nbsp;
+  <img height='25px' src="https://img.shields.io/badge/TypeScript-242938?logo=typescript&labelColor=81A9FE&logoColor=FFF">&nbsp;
+  <img height='25px' src="https://img.shields.io/badge/AWS-242938?logo=amazon&labelColor=81A9FE&logoColor=FFF">&nbsp;
+  <img height='25px' src="https://img.shields.io/badge/Java-242938?logo=openjdk&labelColor=81A9FE&logoColor=FFF">&nbsp;
+  <img height='25px' src="https://img.shields.io/badge/Spring-242938?logo=spring&labelColor=81A9FE&logoColor=FFF">&nbsp;
 </div>
+
 <br>
 
-<!-- GIF -->
-<img align="right" height="250" width="375" alt="A simple gif" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-### About Me:
-
-*I'm Arthur, a 🎓 Systems Analysis and Development student at the 🏛 Federal Institute of Pernambuco, Brazil. I like to explore 🧭 new technologies and use them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and looking for an internship/work opportunity.*
-
-### Personal Stuffs:
-
-- 🛠️ &nbsp; I’m currently working with Javascript, React & Nodejs.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ArthurVBS?tab=repositories).
-- 📫 &nbsp; How to reach me: arthurvini2703@gmail.com.
-
-### Stats:
-
-<!-- GitHub Stats -->
-<details open>	
-  <summary><b>⚡ Github Stats</b></summary>
+<div align="center">
+  <img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
+  
+  <details>
+  <summary><b>More about me</b></summary>
   <br>
-  <table>
-    <tr>
-      <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api?username=ArthurVBS&hide_border=true&show_icons=true&count_private=true&theme=tokyonight"></td>
-      <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVBS&hide_border=true&layout=compact&theme=tokyonight"></td>
-    </tr>
-  </table>
+  <div align="left">
+      
+  ```ts
+  const arthurVBS = {
+      personal: {
+          name: "Arthur Silva",
+          location: "Brazil",
+          interests: ["web development", "music", "games"],
+          study: "Systems Analysis and Development student at the Federal Institute of Pernambuco",
+          motivation: "Explore new technologies and use them to solve real-life problems"
+      },
+
+      technical: {
+          technologies: {
+              frontEnd: {
+                languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
+                libsOrFrameworks: ["React", "Next.js", "Styled Components"],
+              },
+
+              backEnd: {
+                languages: ["Java", "XML", "SQL"],
+                libsOrFrameworks: ["Spring Boot", "Hibernate"],
+              },
+          },
+
+          tools: {
+              codeEditor: ["Visual Studio Code", "IntelliJ IDEA"],
+          },
+      },
+  }
+  ```
+      
+  </div>
+
+  <details>	
+    <summary><b>Github Stats</b></summary>
+    <br>
+    <table>
+      <!-- GitHub Stats -->
+      <tr>
+        <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api?username=ArthurVBS&hide_border=true&show_icons=true&count_private=true&theme=tokyonight"></td>
+        <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVBS&hide_border=true&layout=compact&theme=tokyonight"></td>
+      </tr>
+      <!-- Snake Animation -->
+      <tr>
+        <td colspan="2"><img width='100%' src='https://github.com/ArthurVBS/ArthurVBS/blob/output/github-contribution-grid-snake.svg'></td>
+      </tr>
+      <!-- Bye Bye -->
+      <tr>
+        <td align='center' colspan='2'>Show some ❤️ by starring some of the my repositories!</td>
+      </tr>
+    </table>
+  </details>
 </details>
-
-<br>
-
-<table align='center'>
-  <!-- Snake Animation -->
-  <tr>
-    <td><img width='100%' src='https://github.com/ArthurVBS/ArthurVBS/blob/output/github-contribution-grid-snake.svg'></td>
-  </tr>
-  <!-- Bye Bye -->
-  <tr>
-    <td align='center' colspan='2'>Show some ❤️ by starring some of the my repositories!</td>
-  </tr>
-</table>
+  
+[![Gmail](https://img.shields.io/badge/-Email-white?style=flat-square&logo=Gmail&link=mailto:arthurvini2703@gmail.com)](mailto:arthurvini2703@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-arthurvbs-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arthurvbs/)](https://www.linkedin.com/in/arthurvbs/)
+[![GitHub](https://img.shields.io/github/followers/ArthurVBS?label=follow&style=social)](https://github.com/ArthurVBS)
+  
+</div>
