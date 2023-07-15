@@ -12,6 +12,8 @@
 
 <div align="center">
   <img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
+
+  <span>I'm a intern full-stack developer at @[Cin/Motorola Project](https://www.linkedin.com/company/cinmotorola/mycompany/).</span>
   
   <details>
   <summary><b>More about me</b></summary>
@@ -32,17 +34,22 @@
           technologies: {
               frontEnd: {
                 languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
-                libsOrFrameworks: ["React", "Next.js", "Styled Components"],
+                tools: ["React", "Next.js", "AngularJS", "Styled Components"]
               },
 
               backEnd: {
-                languages: ["Java", "XML", "SQL"],
-                libsOrFrameworks: ["Spring Boot", "Hibernate"],
+                languages: ["Java", "XML"],
+                tools: ["Spring Framework", "Lombok", "Hibernate"]
+              },
+
+              database: {
+                languages: ["SQL"],
+                tools: ["MySQL", "PostgreSQL"]
               },
           },
 
           tools: {
-              codeEditor: ["Visual Studio Code", "IntelliJ IDEA"],
+              codeEditor: ["Visual Studio Code", "IntelliJ IDEA", "DataGrip"],
           },
       },
   }
@@ -60,9 +67,11 @@
         <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVBS&hide_border=true&layout=compact&theme=tokyonight"></td>
       </tr>
       <!-- Snake Animation -->
+      <!--
       <tr>
         <td colspan="2"><img width='100%' src='https://github.com/ArthurVBS/ArthurVBS/blob/output/github-contribution-grid-snake.svg'></td>
       </tr>
+      -->
       <!-- Bye Bye -->
       <tr>
         <td align='center' colspan='2'>Show some ❤️ by starring some of the my repositories!</td>
